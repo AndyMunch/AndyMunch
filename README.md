@@ -1,4 +1,5 @@
-## Hi there 👋
+My name is Andreas and I am from Lucerne.
+If you have a question about 4-bit-adder, feel free to do so.
 
 <!--
 **AndyMunch/AndyMunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
